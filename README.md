@@ -10,7 +10,7 @@ Source:
 
 - Origin: The dataset is sourced from the Harvard Global Data Institute, specifically from a team of researchers affiliated with the institute.
 Year of Collection: The dataset was collected in 2019.
-- Link: Hospital Bed Capacity and COVID-19 Dataset
+- Link: <a href="https://www.kaggle.com/datasets/mrmorj/hospital-bed-capacity-and-covid19" target="_blank">https://www.kaggle.com/datasets/mrmorj/hospital-bed-capacity-and-covid19</a>
 
 Size:
 - Number of Observations: The dataset contains information for 306 U.S. hospital markets.
